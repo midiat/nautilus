@@ -52,3 +52,4 @@ Ejecutar desde carpeta raiz
         * Sistema de mantenimiento de Pacientes:
             * _Actualiza datos, incluyendo imágenes, de los pacientes registrados._
             * _Eliminación de pacientes registrados en la aplicación._
+        * Creación de _BRANCH_: **desarrollo-isaac**
